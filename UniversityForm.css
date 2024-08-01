@@ -1,0 +1,16 @@
+#Universities_Selection_form{
+    color:aquamarine;
+    text-align:center;
+    text-decoration: dotted underline;
+    font-size:25px ;
+}
+body{
+    background-color: rgb(49, 104, 85);
+    color:rgb(25, 56, 46);
+    line-height: 30px;
+}
+#go{
+    background-color: rgb(82, 166, 138);
+    text-align:center;
+    color:#000000;
+}
